@@ -57,6 +57,7 @@ A Doctor-Patient management dashboard built with **ASP.NET Core**.
 🌟 Expertise in deploying and managing Wazuh and ELK Stack for centralized log analysis, custom rule creation, and security     monitoring.
 🌟 Experienced in incident response and threat hunting, utilizing Linux-based tools to identify indicators of compromise       (IOCs) and malicious processes
 🌟 Strong foundational knowledge of Data Structures and Algorithms, applied to optimizing search queries and data ingestion     within SIEM environments.
+
 ---
 
 ### 📈 Currently Learning & Researching
