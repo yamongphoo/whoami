@@ -2,7 +2,7 @@
 
 # Hi there, I'm San Yamong Phuu 👋
 
-### ⚡ Electronic Communication Engineer & Technical Analyst
+### ⚡ Electronic Communication Engineer & Cybersecurity Analyst 
 *Prospective M.Sc. Candidate in Electrical Engineering & Information Technology (EEIT)*  
 *(Specializing in Robotics, Industrial Automation & Intelligent Control Systems)*
 
