@@ -2,7 +2,7 @@
 
 # Hi there, I'm San Yamong Phuu 👋
 
-### ⚡ Electronic Communication Engineer & Cybersecurity Analyst 
+### ⚡ Cybersecurity Analyst & Electronics Engineer
 *Prospective M.Sc. Candidate in Electrical Engineering & Information Technology (EEIT)*  
 *(Specializing in Robotics, Industrial Automation & Intelligent Control Systems)*
 
@@ -42,7 +42,7 @@ Experienced **Cybersecurity Analyst** with an academic foundation in **Electroni
 | Domain | Engineering Tools & Frameworks |
 | :--- | :--- |
 | **Automation & Hardware** | PLC Programming, MATLAB / Simulink, Control System Design, HDL Digital Design |
-| **Networking & Telemetry** | Computer Networking, FortiGate Firewalls, Wazuh SIEM, Sentinel (KQL), Wireshark |
+| **Networking & Telemetry** | Computer Networking, FortiGate Firewalls, Wazuh SIEM, Splunk Enterprise, Sentinel (KQL), Wireshark |
 | **Software Development** | ASP.NET Core MVC, C#, REST APIs, Relational Databases, Entity Framework, SQL Server |
 | **Languages & Tools** | C/C++, C#, Python, SQL, KQL, PowerShell, Assembly, Linux (Ubuntu/Debian) |
 
